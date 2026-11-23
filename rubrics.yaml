@@ -1,0 +1,10 @@
+rubrics:
+  - name: correctness
+    description: Is the final answer factually correct and does it address the task?
+    weight: 0.5
+  - name: completeness
+    description: Does the answer cover every part of the task?
+    weight: 0.3
+  - name: clarity
+    description: Is the answer concise and easy to follow?
+    weight: 0.2

@@ -1,0 +1,7 @@
+cases:
+  - id: capital-france
+    input: What is the capital of France?
+    reference: Paris
+  - id: sum
+    input: What is 17 + 25?
+    reference: "42"
